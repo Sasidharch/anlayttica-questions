@@ -1,0 +1,16 @@
+1) Output : 
+        A
+2) Input :
+       Enter the string : sasidhar
+   Output: 
+       SASIDHAR
+3) Output :
+        error
+
+4)  output: No. the for loops get 11 as length
+              the while loop gets 12 as the length.
+5) output : x points to the null, dereferencing the null results.
+
+6)  output : the output get error because you cant use an array.
+
+7)output : the program get 11 22 33 44 55.
